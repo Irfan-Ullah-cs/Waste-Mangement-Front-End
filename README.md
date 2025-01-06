@@ -1,4 +1,7 @@
-# waste-management
+# waste-management Front End
+## Note: This repository is a part of our grand project which include Backend, frontend, Mobile Applicaiton, and IoT
+
+
 
 ## Project setup
 ```
