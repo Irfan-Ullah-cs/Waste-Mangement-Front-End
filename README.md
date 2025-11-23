@@ -77,6 +77,9 @@ yarn lint
 - **Efficient Waste Collection**: Drivers are notified of full bins and can plan optimized routes.
 
 ---
+<img width="959" height="428" alt="image" src="https://github.com/user-attachments/assets/fa52df0f-8f56-4840-a178-83d7c17f4d46" />
+<img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/efc52728-cc3a-48c8-b5c6-d53297adb6df" />
+
 
 ## Contribution Guidelines
 
